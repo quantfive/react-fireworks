@@ -174,7 +174,7 @@ export default  {
       canvas = document.createElement('canvas');
       canvas.id = 'fireworksField';
       canvas.style.width = SCREEN_WIDTH;
-      canvas.style.height = SCREEN_HEIGHT;
+      // canvas.style.height = SCREEN_HEIGHT;
       canvas.style.position = 'absolute';
       canvas.style.top = SCREEN_TOP;
       canvas.style.bottom = SCREEN_BOTTOM;
